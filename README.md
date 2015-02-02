@@ -36,5 +36,4 @@ A plugin to adapt Sublime Text 3 for every day usage at Epitech
 
 ## Credits
 
-Plugin created by [Guillaume Besson](http://besson.co/) ([geekuillaume](http://geekuillau.me/))
-Edited (a few!) for Sublime Text 3 by DempaPower.
+Plugin created by [Guillaume Besson](http://besson.co/) ([geekuillaume](http://geekuillau.me/)), and edited (a few!) for Sublime Text 3 by DempaPower.
