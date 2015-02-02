@@ -1,7 +1,7 @@
 SublimTek
 =========
 
-A plugin to adapt Sublime Text 2 for every day usage at Epitech
+A plugin to adapt Sublime Text 3 for every day usage at Epitech
 
 ## Features
 
@@ -14,13 +14,13 @@ A plugin to adapt Sublime Text 2 for every day usage at Epitech
 	* SublimeTek is not inside the "official" Package Control Channel, you need to add it manually
 		1. Open the Command Palette
 		2. Select "Package Control: Add Repository"
-		3. Type "https://github.com/geekuillaume/SublimTek"
+		3. Type "https://github.com/DempaPower/SublimTek"
 	1. Open the Command Palette
 	2. Select "Package Control: Install Package"
 	3. Select "SublimTek"
 * If you don't want to install Package Control you can simply clone the repository inside the "Package directory"
-	1. Go in ~/.config/sublime-text-2/Packages/
-	2. Clone the git repo : git clone https://github.com/geekuillaume/SublimTek.git
+	1. Go in ~/.config/sublime-text-3/Packages/
+	2. Clone the git repo : git clone https://github.com/DempaPower/SublimTek.git
 
 ## Usage
 
@@ -37,3 +37,4 @@ A plugin to adapt Sublime Text 2 for every day usage at Epitech
 ## Credits
 
 Plugin created by [Guillaume Besson](http://besson.co/) ([geekuillaume](http://geekuillau.me/))
+Edited (a few!) for Sublime Text 3 by DempaPower.

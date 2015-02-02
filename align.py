@@ -84,7 +84,7 @@ class EpiIndentAll(sublime_plugin.TextCommand):
             new_spaces += 2
             next_line -= 2
           break
-      str_spaces = "\t" * ((new_spaces + last_spaces) / 8) + " " * ((new_spaces + last_spaces) % 8)
+      str_spaces = "\t" * ((new_spaces + last_spaces) // 8) + " " * ((new_spaces + last_spaces) % 8)
       if actual_spaces != len(line):
         self.view.replace(edit, sublime.Region(self.view.text_point(i, 0), self.view.text_point(i, actual_spaces)), str_spaces)
       else:
